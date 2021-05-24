@@ -1,2 +1,2 @@
 # A-Algorithm-Visualization
-A* Algorithm visualization using YouTube tutorials from Tech with Tim
+I made A* Algorithm visualization in python after watching  YouTube tutorials of @Tech with Tim. 
