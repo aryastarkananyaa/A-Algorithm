@@ -1,1 +1,1 @@
-# A-Algorithm-Visualization
+# A-Algorithm
